@@ -1,0 +1,4 @@
+alias vim=nvim
+alias rvim="vim -R"
+alias vimdiff="vim -d"
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
