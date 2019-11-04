@@ -1,0 +1,24 @@
+.gajim-conversation-font {
+    font-family: SauceCodePro Nerd Font Mono;
+    font-style: normal;
+    font-size: 10pt;
+    font-weight: 400
+    }
+.gajim-outgoing-nickname {
+    color: rgb(69, 133, 136)
+    }
+.gajim-incoming-nickname {
+    color: rgb(251, 73, 52)
+    }
+.gajim-incoming-message-text {
+    color: rgb(235, 219, 178)
+    }
+.gajim-outgoing-message-text {
+    color: rgb(235, 219, 178)
+    }
+.gajim-roster-connected {
+    background: rgb(184, 187, 38)
+    }
+.gajim-roster-disconnected {
+    background: rgb(251, 73, 52)
+    }
