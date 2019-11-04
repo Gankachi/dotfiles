@@ -1,0 +1,53 @@
+items:
+- checked: false
+  checkedicon: x
+  text: Finish dotfiles articles (and add the sources at the end)
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: x
+  text: Add CLI Messenger
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: x
+  text: Somehow make dunst work with bspwm?
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: x
+  text: Finish transition from i3 to bspwm
+  uncheckedicon: ' '
+- checked: false
+  checkedicon: x
+  text: Restyle Rofi
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Finish setting up xmpp client on linux
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Restyle Polybar
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Setup mopidy
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Setup WTF
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Setup Compton
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Setup backlight control
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Do without nm-applet
+  uncheckedicon: ' '
+- checked: true
+  checkedicon: x
+  text: Restyle Dunst
+  uncheckedicon: ' '
