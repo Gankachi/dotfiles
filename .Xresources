@@ -1,0 +1,4 @@
+#include ".config/Xresources/colors"
+*.font: xft:SauceCodePro Nerd Font Mono:size=9
+*.scrollBar: false
+
